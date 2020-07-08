@@ -1,2 +1,0 @@
-module employess_salary {
-}
