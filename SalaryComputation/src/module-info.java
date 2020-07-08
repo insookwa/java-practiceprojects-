@@ -1,0 +1,2 @@
+module employess_salary {
+}
